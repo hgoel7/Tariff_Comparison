@@ -1,0 +1,15 @@
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/Tariff_Comparison.deps.json
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/Tariff_Comparison.runtimeconfig.json
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/Tariff_Comparison.runtimeconfig.dev.json
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/Tariff_Comparison.dll
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/ref/Tariff_Comparison.dll
+/Users/hgoel/GitHub/Tariff_Comparison/bin/Debug/net5.0/Tariff_Comparison.pdb
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.csprojAssemblyReference.cache
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.AssemblyInfoInputs.cache
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.AssemblyInfo.cs
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.csproj.CoreCompileInputs.cache
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.dll
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/ref/Tariff_Comparison.dll
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.pdb
+/Users/hgoel/GitHub/Tariff_Comparison/obj/Debug/net5.0/Tariff_Comparison.genruntimeconfig.cache
